@@ -3,7 +3,7 @@
 - 🎓I'm a junior studying computer science and data science at UW-Madison!
 - 🧬 I'm currently working on a Pygame version of John Conway's Game of Life!
 - 👷‍♂️I've had work experience in embedded software, web development, and IT.
-- 🐱‍💻My personal projects are usually focused on computer vision, game development, and web development.
+- 🐱‍💻My personal projects are usually focused on anything hardware-related, computer vision, game development, or web development.
 
 
 <!--
