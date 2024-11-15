@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-- 🎓 I'm a junior studying computer science and data science at UW-Madison!
+- 🎓 I'm a senior studying computer science and data science at UW-Madison!
 - ❄️ I'm currently working on configuring my NixOS & Hyprland system!
 - 👷‍♂️ I've had work experience in DevOps, Embedded Software, Web Development, and IT.
 - 🐱‍💻 My personal projects are usually focused on anything that relates to hardware, computer vision, game development, or web development.
