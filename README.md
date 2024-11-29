@@ -1,7 +1,11 @@
 ### Hi! 👋
 
 - 🎓 I'm a senior studying computer science and data science at UW-Madison!
-- ❄️ I'm currently working on configuring my NixOS & Hyprland system!
+- 🔭 I'm currently working on:
+  - My [portfolio](www.christophergottwaldt.com) site!
+  - A recipe-sharing site!
+  - ❄️ Configuring my NixOS & Hyprland system!
+  - And others that are sitll in the planning process...
 - 👷‍♂️ I've had work experience in DevOps, Embedded Software, Web Development, and IT.
 - 🐱‍💻 My personal projects are usually focused on anything that relates to hardware, computer vision, game development, or web development.
 
