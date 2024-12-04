@@ -2,8 +2,8 @@
 
 - 🎓 I'm a senior studying computer science and data science at UW-Madison!
 - 🔭 I'm currently working on:
-  - My [portfolio](https://www.christophergottwaldt.com/) site!
-  - A recipe-sharing site!
+  - 🌱 My [portfolio](https://www.christophergottwaldt.com/) site!
+  - 👨‍🍳 A recipe-sharing site!
   - ❄️ Configuring my NixOS & Hyprland system!
   - And others that are sitll in the planning process...
 - 👷‍♂️ I've had work experience in DevOps, Embedded Software, Web Development, and IT.
