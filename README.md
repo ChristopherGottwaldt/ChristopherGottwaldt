@@ -5,7 +5,7 @@
   - 🌱 My [portfolio](https://www.christophergottwaldt.com/) site!
   - 👨‍🍳 A recipe-sharing site!
   - ❄️ Configuring my NixOS & Hyprland system!
-  - And others that are sitll in the planning process...
+  - And others that are still in the planning process...
 - 👷‍♂️ I've had work experience in DevOps, Embedded Software, Web Development, and IT.
 - 🐱‍💻 My personal projects are usually focused on anything that relates to hardware, computer vision, game development, or web development.
 
