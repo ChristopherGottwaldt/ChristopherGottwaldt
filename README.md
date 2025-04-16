@@ -6,7 +6,7 @@
   - 👨‍🍳 A recipe-sharing site!
   - ❄️ Configuring my NixOS & Hyprland system!
   - And others that are still in the planning process...
-- 👷‍♂️ I've had work experience in DevOps, Embedded Software, Web Development, and IT.
+- 👷‍♂️ I've had work experience in DevOps, Embedded Software, Web Development, IT, and Fast Food.
 - 🐱‍💻 My personal projects are usually focused on anything that relates to hardware, computer vision, game development, or web development.
 
 
