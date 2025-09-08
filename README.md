@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-- 🎓 I'm a senior studying computer science and data science at UW-Madison!
+- 🎓 I've been working as a DevOps Engineer after studying computer science and data science at UW-Madison!
 - 🔭 I'm currently working on:
   - 🌱 My [portfolio](https://www.christophergottwaldt.com/) site!
   - 👨‍🍳 A recipe-sharing site!
