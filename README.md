@@ -1,8 +1,9 @@
 ### Hi! 👋
 
-- 🎓 I've been working as a DevOps Engineer after studying computer science and data science at UW-Madison!
+- 🎓 I've been working in DevOps after studying computer science and data science at UW-Madison!
 - 🔭 I'm currently working on:
   - 🌱 My [portfolio](https://www.christophergottwaldt.com/) site!
+  - 🍅 A Pomodoro timer app!
   - 👨‍🍳 A recipe-sharing site!
   - ❄️ Configuring my NixOS & Hyprland system!
   - And others that are still in the planning process...
